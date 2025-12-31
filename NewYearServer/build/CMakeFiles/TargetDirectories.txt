@@ -1,0 +1,3 @@
+/home/mylinux/MyLinuxCode/NewYearServer/build/CMakeFiles/NewYearServer.dir
+/home/mylinux/MyLinuxCode/NewYearServer/build/CMakeFiles/edit_cache.dir
+/home/mylinux/MyLinuxCode/NewYearServer/build/CMakeFiles/rebuild_cache.dir
